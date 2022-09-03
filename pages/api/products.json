@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "OG wallpaper pack",
+    "price": "0.09",
+    "description": "Get this nordic wallpaper pack for only $0.09! Includes 80 amazing wallpapers",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "wallpapers.zip",
+    "hash": "QmRw5rZfB54wVi7XAikM9mpRJvCCYRAGZG7WyLit3B7Xun"
+  },
+  {
+    "ud": 2,
+    "name": "also wallpapers",
+    "price": "1",
+    "image_url": "https://images.unsplash.com/photo-1562155847-c05f7386b204?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "description": "wallpapers again lol"
+  }
+]
